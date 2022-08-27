@@ -14,6 +14,9 @@
 
 드로잉 머신을 만들면서 이를 재현할 수 있으리라 생각하게 됨
 
+## 작품 사진
+![image](https://user-images.githubusercontent.com/103805620/187031191-9b849a15-9c65-4697-bc57-6b73e957dc4a.png)
+
 ## H/W 소개
 
 ![image](https://user-images.githubusercontent.com/103805620/187030917-1c49bb49-8822-4cc7-9062-5449d7e881ca.png)
