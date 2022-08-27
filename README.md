@@ -16,7 +16,7 @@
 
 ## H/W 소개
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6eadff9c-e29c-4932-9912-5cb1345f86a7/Untitled.png)
+![image](https://user-images.githubusercontent.com/103805620/187030917-1c49bb49-8822-4cc7-9062-5449d7e881ca.png)
 
 - 모터를 통한 그림판 제어
 - 컬러 센서와 모터를 통한 그림판과의 거리 제어
@@ -28,4 +28,4 @@
 
 ## S/W 소개
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f73a5aba-e252-4bf2-9756-f99849ac8f70/Untitled.png)
+![image](https://user-images.githubusercontent.com/103805620/187030936-2136c548-f1b4-435b-8249-6f8fa619642a.png)
